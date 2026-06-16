@@ -13,12 +13,17 @@ This project delivers an interactive data visualization dashboard exploring the 
 ---
 
 ## 🛠️ Cleaning Workflow
-**Removed duplicates.
-**Handled missing country values.
-**Standardized text fields.
-**Converted Date Added to proper date format.
-**Checked release year consistency.
-**Removed unnecessary spaces and formatting issues.
+Removed duplicates.
+
+Handled missing country values.
+
+Standardized text fields.
+
+Converted Date Added to proper date format.
+
+Checked release year consistency.
+
+Removed unnecessary spaces and formatting issues.
 ---
 
 ## 🧩 Dashboard Features & Components
